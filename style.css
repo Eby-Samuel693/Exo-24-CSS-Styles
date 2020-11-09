@@ -18,7 +18,6 @@
 #q3{
     color:blue;
     font-size: small;
-
 }
 
 h3{
@@ -46,7 +45,8 @@ body{
 
 blockquote + p{
     font-weight: fantasy;
-
+    border-style: none;
+    border-width: 400px;
 }
 
 blockquote{
@@ -55,14 +55,13 @@ blockquote{
 
 tbody:first-letter{
     text-transform: capitalize;
-
 }
 
 tbody{
     text-decoration-line: underline;
 }
 
-#q1{
+#div{
     background-color: #C0C0C0;
 }
 
